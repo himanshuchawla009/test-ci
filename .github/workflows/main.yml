@@ -1,4 +1,4 @@
-name: Update pr release
+name: Update release
 
 on:
   release:
