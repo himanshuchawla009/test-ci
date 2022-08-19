@@ -1,4 +1,4 @@
-name: Update and Build examples on release
+name: Update release
 
 on:
   release:
