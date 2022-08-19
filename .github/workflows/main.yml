@@ -3,6 +3,8 @@ name: Update and Build examples on release
 on:
   release:
     types: [published]
+  push:
+    branches: [main]
 jobs:
   demo:
     strategy:
